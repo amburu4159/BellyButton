@@ -8,3 +8,7 @@ Dynamic webpage created with the ability to share easily. Users can select diffe
 
 ###
 The webpage cane be found at the following link  https://amburu4159.github.io/BellyButton/
+
+### Resources
+https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/2/shutterstock_1417926962.jpg
+https://www.news-medical.net/news/20210208/Scientists-produce-active-antigen-in-bacteria-to-help-combat-SARS-CoV-2.aspx
